@@ -2,6 +2,15 @@ Send an email to Fin from your Desktop, using [Alfred](https://www.alfredapp.com
 
 ![screenshot](https://raw.githubusercontent.com/kortina/fin-alfred/master/screenshot.png)
 
+## Dependencies
+
+```
+# homebrew from: http://brew.sh/
+
+brew install libgcrypt
+brew install mailutils
+```
+
 ## Setup
 
 Download and double-click the Alfred Workflow to install.
